@@ -1,0 +1,301 @@
+ID_Venta,Fecha_Venta,Vendedor,Ciudad,Producto,Categoria,Cantidad,Precio_Unitario,Descuento,Metodo_Pago,Cliente_Tipo
+1,15/01/2023,Juan Pérez,santiago,Laptop Dell Inspiron 15,computadores,1,650000,5%,Tarjeta Credito,Empresarial
+2,2023-01-18,María González,Valparaiso,iPhone 14 Pro,smartphones,2,899000,0,Efectivo,Particular
+3,22-01-2023,Pedro  Rodríguez,Concepcion,samsung galaxy s23,Smartphones,1,749000,10%,Transferencia,particular
+4,01/02/23,maria gonzalez,VALPARAISO,Auriculares Sony WH-1000XM5,accesorios,3,299000,,tarjeta debito,Particular
+5,2023/02/05,Juan Perez,Santiago,MacBook Air M2,Computadores,1,1200000,15%,Tarjeta Credito,empresarial
+6,10-02-2023,Carolina Silva,la serena,iPad Pro 12.9,Tablets,2,950000,5,Efectivo,Particular
+7,15.02.2023,Pedro Rodriguez,concepción,Monitor LG 27",monitores,1,250000,0%,transferencia,Empresarial
+8,2023-02-20,Roberto Soto,Temuco,Mouse Logitech MX Master,Accesorios,5,75000,10,Tarjeta Credito,particular
+9,25/02/2023,MARIA GONZALEZ,valparaiso,Teclado Mecánico Razer,accesorios,2,120000,5%,Efectivo,Particular
+10,01/03/2023,Juan Pérez,Santiago,Dell XPS 13,computadores,1,1100000,20%,Tarjeta Credito,Empresarial
+11,2023-03-05,Carolina  Silva,La Serena,Samsung Galaxy Tab S8,tablets,1,650000,0,transferencia,Particular
+12,10-03-23,pedro rodriguez,Concepción,AirPods Pro,Accesorios,4,199000,5%,Tarjeta Debito,particular
+13,15/03/2023,Roberto Soto,temuco,HP Pavilion Gaming,Computadores,1,850000,,Efectivo,Particular
+14,2023/03/20,Ana Morales,Santiago,iPhone 13,smartphones,1,699000,10%,Tarjeta Credito,Empresarial
+15,25-03-2023,Juan Perez,santiago,Webcam Logitech C920,accesorios,3,89000,0,transferencia,Particular
+16,30/03/2023,María González,Valparaíso,iPad Air,Tablets,2,599000,5%,Efectivo,particular
+17,05/04/2023,Pedro Rodríguez,Concepcion,Samsung Odyssey Monitor,Monitores,1,450000,15%,Tarjeta Credito,Empresarial
+18,2023-04-10,carolina silva,LA SERENA,Huawei MatePad,tablets,1,399000,0,Tarjeta Debito,Particular
+19,15.04.2023,Roberto  Soto,Temuco,MacBook Pro 14",Computadores,1,2100000,10%,transferencia,empresarial
+20,20/04/23,Ana Morales,Santiago,Galaxy Buds Pro,Accesorios,6,149000,5,Efectivo,Particular
+21,2023/04/25,JUAN PEREZ,Santiago,Asus ROG Strix,computadores,1,1350000,20%,Tarjeta Credito,Empresarial
+22,30-04-2023,María Gonzalez,valparaiso,Magic Mouse,accesorios,2,95000,0%,transferencia,particular
+23,05/05/2023,Pedro Rodriguez,Concepción,iPhone 14,Smartphones,3,849000,10%,Efectivo,Empresarial
+24,2023-05-10,Carolina Silva,la serena,Surface Pro 9,Tablets,1,1150000,15%,Tarjeta Credito,Particular
+25,15-05-23,roberto soto,TEMUCO,Teclado Apple Magic,Accesorios,1,129000,,Tarjeta Debito,particular
+26,20/05/2023,Ana  Morales,Santiago,Samsung Galaxy S22,smartphones,2,649000,5%,transferencia,Particular
+27,2023/05/25,Juan Pérez,santiago,BenQ Monitor Gaming,monitores,1,380000,10%,Efectivo,Empresarial
+28,01/06/2023,María González,Valparaiso,Lenovo ThinkPad,Computadores,1,950000,0,Tarjeta Credito,empresarial
+29,2023-06-05,Pedro  Rodríguez,concepcion,iPad Mini,tablets,2,499000,5%,transferencia,Particular
+30,10-06-2023,Carolina Silva,La Serena,SSD Samsung 1TB,accesorios,4,110000,15,Efectivo,particular
+31,15/06/23,Roberto Soto,Temuco,Xiaomi Redmi Note 12,Smartphones,1,299000,0%,Tarjeta Debito,Particular
+32,2023-06-20,ana morales,SANTIAGO,Razer DeathAdder Mouse,Accesorios,3,69000,5%,Tarjeta Credito,Empresarial
+33,25.06.2023,JUAN PEREZ,Santiago,HP Envy 13,computadores,1,899000,10%,transferencia,Particular
+34,30/06/2023,María Gonzalez,Valparaíso,Apple Watch Series 8,accesorios,2,449000,,Efectivo,particular
+35,05/07/2023,Pedro Rodriguez,Concepción,ASUS Monitor 24",Monitores,1,199000,0,Tarjeta Credito,Empresarial
+36,2023-07-10,carolina silva,la serena,Galaxy Tab A8,Tablets,1,249000,5%,transferencia,Particular
+37,15-07-2023,Roberto  Soto,temuco,MacBook Air M1,Computadores,1,999000,15%,Tarjeta Debito,empresarial
+38,20/07/23,Ana Morales,Santiago,OnePlus 11,smartphones,2,699000,10,Efectivo,Particular
+39,2023/07/25,Juan Pérez,santiago,Logitech Webcam Brio,accesorios,1,249000,0%,Tarjeta Credito,particular
+40,01/08/2023,MARIA GONZALEZ,Valparaiso,Dell Latitude,Computadores,1,850000,20%,transferencia,Empresarial
+41,2023-08-05,Pedro Rodríguez,Concepcion,Samsung Galaxy Z Flip,Smartphones,1,949000,5%,Efectivo,Particular
+42,10-08-2023,Carolina Silva,LA SERENA,iPad Pro 11",tablets,1,899000,10%,Tarjeta Credito,empresarial
+43,15/08/2023,roberto soto,Temuco,HyperX Cloud Gaming,Accesorios,4,99000,0,Tarjeta Debito,Particular
+44,2023-08-20,Ana  Morales,Santiago,LG UltraWide Monitor,monitores,1,650000,15%,transferencia,Empresarial
+45,25-08-23,Juan Perez,SANTIAGO,Acer Aspire 5,computadores,1,599000,5,Efectivo,particular
+46,30/08/2023,María González,valparaiso,iPhone SE,Smartphones,3,449000,0%,Tarjeta Credito,Particular
+47,2023/09/05,Pedro  Rodriguez,Concepción,Surface Go 3,Tablets,1,549000,10%,transferencia,Empresarial
+48,10-09-2023,Carolina Silva,la serena,Corsair Keyboard RGB,accesorios,2,159000,5%,Tarjeta Debito,Particular
+49,15.09.2023,Roberto Soto,temuco,Asus Zenbook,Computadores,1,1050000,15%,Efectivo,empresarial
+50,20/09/2023,ana morales,Santiago,Samsung Monitor Curved,Monitores,1,399000,,Tarjeta Credito,Particular
+51,2023-09-25,JUAN PEREZ,santiago,Huawei P60 Pro,smartphones,2,799000,10%,transferencia,Empresarial
+52,30/09/23,María Gonzalez,Valparaíso,Lenovo Tab P11,tablets,1,349000,0,Efectivo,particular
+53,05/10/2023,Pedro Rodríguez,concepcion,Magic Keyboard,Accesorios,1,299000,5%,Tarjeta Credito,Particular
+54,2023-10-10,Carolina  Silva,La Serena,MSI Gaming Laptop,Computadores,1,1450000,20%,Tarjeta Debito,Empresarial
+55,15-10-2023,Roberto Soto,TEMUCO,Pixel 7 Pro,Smartphones,1,849000,10%,transferencia,particular
+56,20/10/2023,Ana Morales,Santiago,AirPods Max,accesorios,2,599000,0%,Efectivo,Particular
+57,2023/10/25,Juan Pérez,santiago,ViewSonic Monitor,monitores,1,279000,5%,Tarjeta Credito,Empresarial
+58,01/11/2023,maria gonzalez,Valparaiso,HP Spectre x360,computadores,1,1299000,15,transferencia,empresarial
+59,2023-11-05,Pedro Rodriguez,Concepción,Galaxy Tab S9,Tablets,1,749000,10%,Efectivo,Particular
+60,10-11-23,carolina silva,la serena,Razer Mouse Viper,Accesorios,5,79000,0,Tarjeta Debito,particular
+61,15/11/2023,Roberto  Soto,Temuco,Xiaomi 13 Pro,smartphones,2,699000,5%,Tarjeta Credito,Particular
+62,2023-11-20,Ana Morales,SANTIAGO,Dell UltraSharp Monitor,Monitores,1,550000,15%,transferencia,Empresarial
+63,25.11.2023,JUAN PEREZ,Santiago,Alienware Gaming,Computadores,1,2500000,20%,Efectivo,empresarial
+64,30/11/2023,María González,valparaiso,iPhone 15,Smartphones,2,1099000,,Tarjeta Credito,Particular
+65,05/12/2023,Pedro Rodríguez,Concepcion,Surface Laptop 5,computadores,1,1150000,10%,transferencia,Empresarial
+66,2023-12-10,Carolina Silva,LA SERENA,Huawei MatePad Pro,tablets,1,599000,5%,Tarjeta Debito,Particular
+67,15-12-2023,roberto soto,temuco,SteelSeries Headset,Accesorios,3,189000,0%,Efectivo,particular
+68,20/12/23,Ana  Morales,Santiago,ASUS TUF Monitor,monitores,1,329000,10%,Tarjeta Credito,Particular
+69,2023/12/25,Juan Perez,santiago,MacBook Pro 16",Computadores,1,2800000,15%,transferencia,Empresarial
+70,30/12/2023,María Gonzalez,Valparaíso,Galaxy S23 Ultra,smartphones,1,1249000,5,Efectivo,empresarial
+71,05/01/2024,Pedro  Rodriguez,Concepción,iPad Air M2,Tablets,2,649000,10%,Tarjeta Credito,Particular
+72,2024-01-10,Carolina Silva,la serena,Logitech MX Keys,accesorios,1,139000,0,Tarjeta Debito,particular
+73,15-01-2024,Roberto Soto,TEMUCO,Lenovo Legion,Computadores,1,1350000,20%,transferencia,Empresarial
+74,20/01/24,ana morales,Santiago,Motorola Edge 40,Smartphones,3,549000,5%,Efectivo,Particular
+75,2024/01/25,JUAN PEREZ,santiago,AOC Gaming Monitor,monitores,1,289000,,Tarjeta Credito,particular
+76,01/02/2024,María González,Valparaiso,Acer Swift 3,computadores,1,749000,10%,transferencia,Particular
+77,2024-02-05,Pedro Rodríguez,concepcion,Samsung Tab A9,Tablets,1,299000,0,Efectivo,Empresarial
+78,10.02.2024,Carolina  Silva,La Serena,Razer Basilisk Mouse,Accesorios,4,89000,5%,Tarjeta Debito,Particular
+79,15/02/2024,Roberto Soto,Temuco,Asus VivoBook,Computadores,1,649000,15%,Tarjeta Credito,empresarial
+80,2024-02-20,Ana Morales,SANTIAGO,Nothing Phone 2,smartphones,2,599000,10,transferencia,Particular
+81,25-02-24,Juan Perez,santiago,BenQ Designer Monitor,Monitores,1,799000,0%,Efectivo,Empresarial
+82,29/02/2024,maria gonzalez,Valparaíso,MSI Prestige,computadores,1,1199000,20%,Tarjeta Credito,empresarial
+83,2024/03/05,Pedro Rodriguez,Concepción,iPad 10th Gen,tablets,2,479000,5%,transferencia,Particular
+84,10-03-2024,carolina silva,la serena,Corsair Mouse Dark Core,accesorios,1,99000,0,Tarjeta Debito,particular
+85,15/03/2024,Roberto  Soto,temuco,HP Omen Gaming,Computadores,1,1550000,15%,Efectivo,Empresarial
+86,2024-03-20,Ana Morales,Santiago,Oppo Find X6,Smartphones,1,749000,10%,Tarjeta Credito,Particular
+87,25.03.2024,JUAN PEREZ,SANTIAGO,Samsung Odyssey G7,monitores,1,899000,5,transferencia,empresarial
+88,30/03/2024,María González,valparaiso,Dell Inspiron 14,Computadores,1,699000,0%,Efectivo,Particular
+89,05/04/2024,Pedro Rodríguez,Concepcion,Lenovo Tab M10,Tablets,1,249000,5%,Tarjeta Credito,particular
+90,2024-04-10,Carolina Silva,LA SERENA,HyperX Alloy Keyboard,accesorios,2,119000,10%,Tarjeta Debito,Particular
+91,15-04-2024,roberto soto,Temuco,Razer Blade 15,computadores,1,2200000,20%,transferencia,Empresarial
+92,20/04/24,Ana  Morales,Santiago,Realme GT3,smartphones,3,449000,,Efectivo,Particular
+93,2024/04/25,Juan Perez,santiago,LG 32" 4K Monitor,Monitores,1,699000,15%,Tarjeta Credito,empresarial
+94,30/04/2024,María Gonzalez,Valparaiso,Asus ROG Flow,Computadores,1,1899000,10%,transferencia,Particular
+95,2024-05-05,Pedro  Rodriguez,Concepción,Galaxy Tab S9 FE,tablets,1,499000,5%,Efectivo,Empresarial
+96,10-05-2024,Carolina Silva,la serena,Logitech G502 Hero,Accesorios,6,69000,0,Tarjeta Debito,particular
+97,15/05/2024,Roberto Soto,TEMUCO,MacBook Air 15",computadores,1,1499000,15%,Tarjeta Credito,empresarial
+98,2024-05-20,ana morales,Santiago,Vivo X90 Pro,Smartphones,2,799000,10%,transferencia,Particular
+99,25-05-24,JUAN PEREZ,santiago,Dell P2723D Monitor,monitores,1,459000,5,Efectivo,Empresarial
+100,31/05/2024,María González,Valparaíso,Lenovo Yoga 9i,Computadores,1,1399000,20%,Tarjeta Credito,empresarial
+101,05/06/2024,Pedro Rodríguez,concepcion,iPad Pro M4,tablets,1,1199000,0%,transferencia,Particular
+102,2024-06-10,Carolina  Silva,La Serena,Razer Ornata V3,accesorios,1,89000,5%,Tarjeta Debito,Particular
+103,15.06.2024,Roberto Soto,Temuco,HP Dragonfly,Computadores,1,1650000,15%,Efectivo,empresarial
+104,20/06/2024,Ana Morales,SANTIAGO,OnePlus 12,smartphones,2,849000,10,Tarjeta Credito,Particular
+105,2024-06-25,Juan Perez,santiago,ASUS ProArt Monitor,Monitores,1,1199000,0%,transferencia,Empresarial
+106,30/06/24,maria gonzalez,Valparaiso,Acer Predator Helios,computadores,1,1799000,20%,Efectivo,empresarial
+107,05/07/2024,Pedro Rodriguez,Concepción,Samsung Galaxy Tab S9 Ultra,Tablets,1,1099000,10%,Tarjeta Credito,Particular
+108,2024-07-10,carolina silva,la serena,Corsair K95 RGB,accesorios,2,199000,5,Tarjeta Debito,particular
+109,15-07-2024,Roberto  Soto,temuco,Dell XPS 15,Computadores,1,1899000,15%,transferencia,Empresarial
+110,20/07/2024,Ana Morales,Santiago,Xiaomi 14 Ultra,Smartphones,1,999000,0%,Efectivo,Particular
+111,2024/07/25,JUAN PEREZ,SANTIAGO,LG UltraGear Monitor,monitores,1,749000,10%,Tarjeta Credito,empresarial
+112,01/08/2024,María González,valparaiso,MSI Creator Z16,Computadores,1,2100000,20,transferencia,empresarial
+113,2024-08-05,Pedro Rodríguez,Concepcion,Huawei MatePad 11,tablets,1,449000,5%,Efectivo,Particular
+114,10-08-24,Carolina Silva,LA SERENA,Logitech G915 TKL,Accesorios,1,229000,0,Tarjeta Debito,Particular
+115,15/08/2024,roberto soto,Temuco,Asus Zenbook Pro,computadores,1,1749000,15%,Tarjeta Credito,Empresarial
+116,2024-08-20,Ana  Morales,Santiago,Google Pixel 8 Pro,smartphones,3,899000,10%,transferencia,Particular
+117,25.08.2024,Juan Perez,santiago,Samsung ViewFinity Monitor,Monitores,1,599000,5,Efectivo,empresarial
+118,30/08/2024,María Gonzalez,Valparaíso,HP Pavilion Plus,Computadores,1,899000,0%,Tarjeta Credito,Particular
+119,2024/09/05,Pedro  Rodriguez,Concepción,Lenovo Tab P12,tablets,2,599000,10%,transferencia,Empresarial
+120,10-09-2024,Carolina Silva,la serena,Razer Huntsman Elite,accesorios,1,179000,15,Tarjeta Debito,Particular
+121,15/09/2024,Roberto Soto,TEMUCO,MacBook Pro M3,Computadores,1,2499000,20%,Efectivo,empresarial
+122,2024-09-20,ana morales,Santiago,Asus Zenfone 10,Smartphones,2,649000,5%,Tarjeta Credito,Particular
+123,25-09-24,JUAN PEREZ,santiago,BenQ Mobiuz Monitor,monitores,1,849000,10,transferencia,Empresarial
+124,30/09/2024,María González,Valparaiso,Lenovo ThinkPad X1,computadores,1,1899000,0%,Efectivo,empresarial
+125,05/10/2024,Pedro Rodríguez,concepcion,iPad Air 11",Tablets,1,699000,15%,Tarjeta Credito,Particular
+126,2024-10-10,Carolina  Silva,La Serena,SteelSeries Apex Pro,accesorios,2,249000,5,Tarjeta Debito,particular
+127,15.10.2024,Roberto Soto,Temuco,Asus TUF Gaming A15,Computadores,1,1199000,10%,transferencia,Empresarial
+128,20/10/24,Ana Morales,SANTIAGO,Honor Magic 5 Pro,smartphones,1,749000,0%,Efectivo,Particular
+129,2024/10/25,Juan Perez,santiago,Dell S2722QC Monitor,Monitores,1,549000,15%,Tarjeta Credito,empresarial
+130,31/10/2024,maria gonzalez,Valparaíso,Acer Swift X,computadores,1,999000,20,transferencia,Particular
+131,05/11/2024,Pedro Rodriguez,Concepción,Samsung Galaxy Tab A9+,Tablets,1,349000,5%,Efectivo,particular
+132,2024-11-10,carolina silva,la serena,Logitech G Pro X,accesorios,4,149000,0,Tarjeta Debito,Particular
+133,15-11-2024,Roberto  Soto,temuco,Dell Inspiron 16,Computadores,1,849000,10%,Tarjeta Credito,Empresarial
+134,20/11/2024,Ana Morales,Santiago,iPhone 15 Pro Max,Smartphones,2,1399000,15%,transferencia,empresarial
+135,2024-11-25,JUAN PEREZ,SANTIAGO,ASUS ROG Swift Monitor,monitores,1,1399000,20,Efectivo,empresarial
+136,30/11/24,María González,valparaiso,HP Envy x360,Computadores,1,1099000,5%,Tarjeta Credito,Particular
+137,05/12/2024,Pedro Rodríguez,Concepcion,iPad Mini A17,tablets,2,549000,10%,transferencia,Particular
+138,2024-12-10,Carolina Silva,LA SERENA,Corsair Scimitar RGB,accesorios,1,119000,0%,Tarjeta Debito,Empresarial
+139,15/12/2024,roberto soto,Temuco,MSI Stealth 16,computadores,1,2199000,15%,Efectivo,empresarial
+140,20/12/2024,Ana  Morales,Santiago,Samsung Galaxy S24 Ultra,Smartphones,1,1349000,20,Tarjeta Credito,empresarial
+141,12/01/2023,Juan Pérez,santiago,Dell Monitor 24",Monitores,2,189000,0,Efectivo,Particular
+142,2023-01-25,María González,Valparaiso,Asus Laptop,computadores,1,799000,10%,Tarjeta Credito,Empresarial
+143,03/02/2023,Pedro  Rodríguez,Concepcion,Sony Headphones,accesorios,3,159000,5%,transferencia,Particular
+144,2023-02-28,Carolina Silva,la serena,Huawei Phone,Smartphones,2,599000,,Tarjeta Debito,particular
+145,08/03/2023,Roberto Soto,TEMUCO,Lenovo Desktop,Computadores,1,899000,15%,Efectivo,Empresarial
+146,16/03/2023,Ana Morales,Santiago,Apple iPad,tablets,1,699000,10%,Tarjeta Credito,Particular
+147,2023-03-29,JUAN PEREZ,santiago,Samsung TV Remote,Accesorios,5,25000,0,transferencia,particular
+148,07/04/2023,María Gonzalez,Valparaíso,HP Laptop,Computadores,1,749000,20%,Efectivo,Empresarial
+149,2023-04-19,Pedro Rodriguez,concepcion,Xiaomi Phone,smartphones,2,399000,5%,Tarjeta Debito,Particular
+150,28/04/2023,carolina silva,La Serena,LG Monitor,Monitores,1,299000,0%,Tarjeta Credito,empresarial
+151,03/05/2023,Roberto  Soto,Temuco,Acer Tablet,tablets,1,449000,10%,transferencia,Particular
+152,2023-05-18,Ana Morales,SANTIAGO,Logitech Keyboard,accesorios,2,79000,5,Efectivo,particular
+153,26/05/2023,Juan Pérez,santiago,Dell Laptop XPS,Computadores,1,1399000,15%,Tarjeta Credito,Empresarial
+154,04/06/2023,maria gonzalez,Valparaiso,iPhone 13 Pro,Smartphones,1,999000,10,Tarjeta Debito,empresarial
+155,2023-06-15,Pedro Rodríguez,Concepción,Samsung Tablet S7,tablets,2,699000,5%,transferencia,Particular
+156,23/06/2023,Carolina Silva,la serena,Razer Mouse,Accesorios,4,95000,0,Efectivo,Particular
+157,01/07/2023,roberto soto,TEMUCO,HP Gaming Laptop,computadores,1,1249000,20%,Tarjeta Credito,Empresarial
+158,2023-07-12,Ana  Morales,Santiago,Motorola Edge,smartphones,3,549000,10%,transferencia,particular
+159,21/07/2023,JUAN PEREZ,santiago,ASUS Monitor Gaming,Monitores,1,459000,5,Efectivo,Empresarial
+160,30/07/2023,María González,Valparaíso,Lenovo Tab,Tablets,1,349000,0%,Tarjeta Debito,Particular
+161,05/08/2023,Pedro  Rodriguez,Concepcion,SteelSeries Headset,accesorios,2,199000,15%,Tarjeta Credito,empresarial
+162,2023-08-17,Carolina Silva,LA SERENA,Acer Nitro 5,Computadores,1,1099000,10,transferencia,Particular
+163,26/08/2023,Roberto Soto,Temuco,OnePlus Phone,Smartphones,2,749000,5%,Efectivo,Particular
+164,02/09/2023,ana morales,Santiago,BenQ Monitor,monitores,1,379000,0,Tarjeta Debito,Empresarial
+165,2023-09-14,Juan Perez,santiago,MSI Laptop,computadores,1,1549000,20%,Tarjeta Credito,empresarial
+166,22/09/2023,María Gonzalez,Valparaiso,Galaxy Tab S8+,Tablets,1,799000,10,transferencia,Particular
+167,30/09/2023,Pedro Rodríguez,Concepción,Corsair Keyboard,accesorios,1,139000,5%,Efectivo,particular
+168,2023-10-08,Carolina  Silva,la serena,HP Spectre,Computadores,1,1499000,15%,Tarjeta Debito,Empresarial
+169,17/10/2023,Roberto Soto,TEMUCO,Pixel 7,smartphones,2,699000,10,Tarjeta Credito,Particular
+170,25/10/2023,Ana Morales,Santiago,Dell UltraSharp,Monitores,1,599000,0%,transferencia,empresarial
+171,03/11/2023,JUAN PEREZ,santiago,Asus VivoBook Flip,computadores,1,899000,20%,Efectivo,Particular
+172,2023-11-12,maria gonzalez,Valparaíso,iPad 9th Gen,tablets,2,429000,5,Tarjeta Credito,particular
+173,20/11/2023,Pedro Rodriguez,concepcion,HyperX Mouse,Accesorios,5,59000,0,Tarjeta Debito,Particular
+174,28/11/2023,carolina silva,La Serena,Lenovo IdeaPad,Computadores,1,649000,10%,transferencia,Empresarial
+175,2023-12-05,Roberto  Soto,Temuco,Realme 10 Pro,Smartphones,3,399000,5%,Efectivo,Particular
+176,14/12/2023,Ana Morales,SANTIAGO,LG 27" Monitor,monitores,1,329000,15,Tarjeta Credito,empresarial
+177,22/12/2023,Juan Pérez,santiago,Acer Aspire 7,Computadores,1,849000,10%,transferencia,Particular
+178,30/12/2023,María González,Valparaiso,Samsung Tab A8,Tablets,1,299000,0,Efectivo,particular
+179,08/01/2024,Pedro Rodríguez,Concepción,Logitech Webcam C922,accesorios,2,139000,5%,Tarjeta Debito,Empresarial
+180,2024-01-16,Carolina Silva,la serena,HP Pavilion 15,computadores,1,749000,20%,Tarjeta Credito,empresarial
+181,24/01/2024,roberto soto,TEMUCO,Xiaomi 13T,Smartphones,2,599000,10,transferencia,Particular
+182,01/02/2024,Ana  Morales,Santiago,ASUS TUF Monitor,Monitores,1,399000,5%,Efectivo,Particular
+183,2024-02-09,JUAN PEREZ,santiago,Dell Latitude 5540,Computadores,1,1199000,15%,Tarjeta Credito,Empresarial
+184,17/02/2024,María Gonzalez,Valparaíso,iPad Air 5th Gen,tablets,1,649000,0,Tarjeta Debito,empresarial
+185,25/02/2024,Pedro  Rodriguez,Concepcion,Razer Kraken,accesorios,3,99000,10%,transferencia,Particular
+186,2024-03-02,Carolina Silva,LA SERENA,Lenovo Legion 5,computadores,1,1399000,20,Efectivo,Empresarial
+187,11/03/2024,Roberto Soto,Temuco,Nothing Phone 1,Smartphones,1,499000,5%,Tarjeta Credito,Particular
+188,19/03/2024,ana morales,Santiago,Samsung Odyssey G5,monitores,1,549000,0%,Tarjeta Debito,empresarial
+189,2024-03-27,Juan Perez,santiago,Asus ROG Zephyrus,Computadores,1,2099000,15%,transferencia,empresarial
+190,04/04/2024,María González,Valparaiso,Galaxy Tab S9 5G,Tablets,1,849000,10,Efectivo,Particular
+191,2024-04-12,Pedro Rodríguez,Concepción,Corsair Mouse Harpoon,accesorios,6,49000,0,Tarjeta Credito,particular
+192,21/04/2024,Carolina  Silva,la serena,HP Omen 16,Computadores,1,1649000,20%,Tarjeta Debito,Empresarial
+193,29/04/2024,Roberto Soto,TEMUCO,Oppo Reno 10,smartphones,2,549000,5%,transferencia,Particular
+194,2024-05-07,Ana Morales,Santiago,BenQ ScreenBar,Monitores,1,179000,0%,Efectivo,empresarial
+195,15/05/2024,JUAN PEREZ,santiago,MacBook Air 13" M3,computadores,1,1299000,15%,Tarjeta Credito,empresarial
+196,23/05/2024,maria gonzalez,Valparaíso,Lenovo Tab M11,tablets,2,299000,10,Tarjeta Debito,Particular
+197,2024-05-31,Pedro Rodriguez,concepcion,Logitech G203,Accesorios,4,39000,0,transferencia,particular
+198,08/06/2024,carolina silva,La Serena,Acer Swift 5,Computadores,1,1049000,20%,Efectivo,Empresarial
+199,16/06/2024,Roberto  Soto,Temuco,Vivo V29,Smartphones,3,499000,5%,Tarjeta Credito,Particular
+200,2024-06-24,Ana Morales,SANTIAGO,Dell P2423DE,monitores,1,449000,10%,Tarjeta Debito,empresarial
+201,02/07/2024,Juan Pérez,santiago,Asus Expertbook,Computadores,1,949000,0,transferencia,Empresarial
+202,10/07/2024,María González,Valparaiso,iPad 10.9",tablets,1,499000,15%,Efectivo,Particular
+203,2024-07-18,Pedro Rodríguez,Concepción,HyperX Pulsefire,accesorios,2,69000,5,Tarjeta Credito,particular
+204,27/07/2024,Carolina Silva,la serena,Lenovo Yoga Slim 7,computadores,1,1149000,20%,Tarjeta Debito,Empresarial
+205,03/08/2024,roberto soto,TEMUCO,Honor 90,Smartphones,2,599000,10%,transferencia,Particular
+206,2024-08-11,Ana  Morales,Santiago,LG 34WN80C,Monitores,1,899000,0,Efectivo,empresarial
+207,20/08/2024,JUAN PEREZ,santiago,HP Envy 16,Computadores,1,1399000,15%,Tarjeta Credito,empresarial
+208,28/08/2024,María Gonzalez,Valparaíso,Samsung Tab S8 FE,Tablets,1,549000,5%,Tarjeta Debito,Particular
+209,2024-09-04,Pedro  Rodriguez,Concepcion,Razer Naga,accesorios,1,129000,0,transferencia,empresarial
+210,13/09/2024,Carolina Silva,LA SERENA,Dell Inspiron 14 Plus,computadores,1,899000,20%,Efectivo,Particular
+211,21/09/2024,Roberto Soto,Temuco,Google Pixel 8,Smartphones,2,749000,10%,Tarjeta Credito,Particular
+212,2024-09-29,ana morales,Santiago,ASUS PA278QV,monitores,1,499000,5,Tarjeta Debito,Empresarial
+213,07/10/2024,Juan Perez,santiago,MSI Modern 14,Computadores,1,799000,0%,transferencia,Particular
+214,15/10/2024,María González,Valparaiso,iPad Pro 13",tablets,1,1299000,15%,Efectivo,empresarial
+215,2024-10-23,Pedro Rodríguez,Concepción,SteelSeries Rival 3,accesorios,5,49000,10,Tarjeta Credito,Particular
+216,31/10/2024,Carolina  Silva,la serena,Asus Vivobook S15,computadores,1,949000,20%,Tarjeta Debito,Empresarial
+217,08/11/2024,Roberto Soto,TEMUCO,Xiaomi 13T Pro,Smartphones,1,749000,5%,transferencia,Particular
+218,16/11/2024,Ana Morales,Santiago,Samsung M7,Monitores,1,399000,0,Efectivo,empresarial
+219,2024-11-24,JUAN PEREZ,santiago,Lenovo ThinkPad P16,Computadores,1,2499000,15%,Tarjeta Credito,empresarial
+220,02/12/2024,maria gonzalez,Valparaíso,Galaxy Tab A8,tablets,2,279000,10%,Tarjeta Debito,Particular
+221,10/12/2024,Pedro Rodriguez,concepcion,Corsair Dark Core,Accesorios,1,109000,0,transferencia,particular
+222,18/12/2024,carolina silva,La Serena,HP Victus 15,Computadores,1,999000,20%,Efectivo,Empresarial
+223,23/01/2023,Roberto  Soto,Temuco,Realme GT2,smartphones,3,449000,5%,Tarjeta Credito,Particular
+224,2023-02-06,Ana Morales,SANTIAGO,BenQ GW2485TC,monitores,1,279000,10,Tarjeta Debito,empresarial
+225,14/02/2023,Juan Pérez,santiago,Acer Predator Triton,computadores,1,2199000,15%,transferencia,empresarial
+226,2023-02-23,María González,Valparaiso,Lenovo Tab P11 Pro,Tablets,1,599000,0,Efectivo,Particular
+227,03/03/2023,Pedro Rodríguez,Concepción,Logitech G502 X,accesorios,2,89000,5%,Tarjeta Credito,particular
+228,2023-03-11,Carolina Silva,la serena,Dell G15 Gaming,Computadores,1,1299000,20%,Tarjeta Debito,Empresarial
+229,19/03/2023,roberto soto,TEMUCO,Asus Zenfone 9,Smartphones,2,649000,10,transferencia,Particular
+230,27/03/2023,Ana  Morales,Santiago,LG 29WP500,Monitores,1,349000,0%,Efectivo,empresarial
+231,2023-04-04,JUAN PEREZ,santiago,HP Pavilion x360,computadores,1,849000,15%,Tarjeta Credito,Particular
+232,12/04/2023,María Gonzalez,Valparaíso,iPad Mini 6,tablets,2,549000,5,Tarjeta Debito,particular
+233,2023-04-21,Pedro  Rodriguez,Concepcion,Razer Viper Ultimate,Accesorios,1,149000,0,transferencia,Empresarial
+234,29/04/2023,Carolina Silva,LA SERENA,Lenovo IdeaPad Gaming,computadores,1,949000,10%,Efectivo,Particular
+235,07/05/2023,Roberto Soto,Temuco,OnePlus Nord 3,Smartphones,3,499000,20%,Tarjeta Credito,empresarial
+236,2023-05-15,ana morales,Santiago,ASUS VP28UQG,monitores,1,429000,5,Tarjeta Debito,Particular
+237,23/05/2023,Juan Perez,santiago,MSI Summit E16,Computadores,1,1799000,15%,transferencia,Empresarial
+238,31/05/2023,María González,Valparaiso,Samsung Galaxy Tab S7 FE,Tablets,1,499000,0%,Efectivo,empresarial
+239,2023-06-08,Pedro Rodríguez,Concepción,Corsair Nightsword,accesorios,4,99000,10,Tarjeta Credito,Particular
+240,16/06/2023,Carolina  Silva,la serena,Asus TUF Dash F15,computadores,1,1149000,20%,Tarjeta Debito,Empresarial
+241,24/06/2023,Roberto Soto,TEMUCO,Motorola Edge 30,Smartphones,2,549000,5%,transferencia,Particular
+242,2023-07-02,Ana Morales,Santiago,Dell S2722DC,Monitores,1,499000,0,Efectivo,empresarial
+243,10/07/2023,JUAN PEREZ,santiago,HP Dragonfly Pro,Computadores,1,1899000,15%,Tarjeta Credito,empresarial
+244,18/07/2023,maria gonzalez,Valparaíso,iPad Air 4th Gen,tablets,1,599000,10%,Tarjeta Debito,Particular
+245,2023-07-26,Pedro Rodriguez,concepcion,Logitech G604,Accesorios,3,79000,0,transferencia,particular
+246,03/08/2023,carolina silva,La Serena,Lenovo Legion Slim 5,computadores,1,1449000,20%,Efectivo,Empresarial
+247,11/08/2023,Roberto  Soto,Temuco,Nothing Phone 2a,smartphones,2,399000,5%,Tarjeta Credito,Particular
+248,2023-08-19,Ana Morales,SANTIAGO,BenQ EX2780Q,monitores,1,699000,10,Tarjeta Debito,empresarial
+249,27/08/2023,Juan Pérez,santiago,Acer Swift Go 14,Computadores,1,999000,15%,transferencia,Particular
+250,04/09/2023,María González,Valparaiso,Galaxy Tab S8 Ultra,Tablets,1,1199000,0,Efectivo,empresarial
+251,2023-09-12,Pedro Rodríguez,Concepción,Razer Basilisk V3,accesorios,2,109000,5%,Tarjeta Credito,Particular
+252,20/09/2023,Carolina Silva,la serena,Dell Inspiron 16 Plus,computadores,1,1099000,20%,Tarjeta Debito,Empresarial
+253,28/09/2023,roberto soto,TEMUCO,Oppo Find N3,Smartphones,1,899000,10,transferencia,empresarial
+254,2023-10-06,Ana  Morales,Santiago,LG 32UN880,Monitores,1,799000,0%,Efectivo,Particular
+255,14/10/2023,JUAN PEREZ,santiago,HP Spectre x360 14,computadores,1,1599000,15%,Tarjeta Credito,empresarial
+256,22/10/2023,María Gonzalez,Valparaíso,Lenovo Tab P12 Pro,tablets,1,749000,5,Tarjeta Debito,Particular
+257,2023-10-30,Pedro  Rodriguez,Concepcion,HyperX Pulsefire Haste,Accesorios,5,59000,0,transferencia,particular
+258,07/11/2023,Carolina Silva,LA SERENA,Asus ROG Strix G16,Computadores,1,1799000,20%,Efectivo,Empresarial
+259,15/11/2023,Roberto Soto,Temuco,Xiaomi 14,Smartphones,2,799000,10%,Tarjeta Credito,Particular
+260,2023-11-23,ana morales,Santiago,ASUS ProArt PA329CV,monitores,1,1099000,15,Tarjeta Debito,empresarial
+261,01/12/2023,Juan Perez,santiago,MSI Prestige 16 AI,Computadores,1,1999000,20%,transferencia,empresarial
+262,09/12/2023,María González,Valparaiso,iPad 10th Gen,Tablets,2,449000,5%,Efectivo,Particular
+263,2023-12-17,Pedro Rodríguez,Concepción,Corsair Sabre RGB,accesorios,1,79000,0,Tarjeta Credito,particular
+264,25/12/2023,Carolina  Silva,la serena,Lenovo Yoga 7i,computadores,1,1249000,10%,Tarjeta Debito,Empresarial
+265,02/01/2024,Roberto Soto,TEMUCO,Honor Magic 6 Pro,Smartphones,1,899000,15%,transferencia,empresarial
+266,2024-01-10,Ana Morales,Santiago,Dell P3223QE,Monitores,1,899000,0,Efectivo,Particular
+267,18/01/2024,JUAN PEREZ,santiago,Acer Nitro 17,computadores,1,1349000,20%,Tarjeta Credito,Empresarial
+268,26/01/2024,maria gonzalez,Valparaíso,Samsung Tab S9+,Tablets,1,849000,10%,Tarjeta Debito,empresarial
+269,2024-02-03,Pedro Rodriguez,concepcion,Logitech G305,accesorios,6,49000,0,transferencia,Particular
+270,11/02/2024,carolina silva,La Serena,HP Pavilion Plus 14,Computadores,1,949000,5%,Efectivo,particular
+271,19/02/2024,Roberto  Soto,Temuco,Vivo X100 Pro,smartphones,2,999000,15%,Tarjeta Credito,empresarial
+272,2024-02-27,Ana Morales,SANTIAGO,Samsung Odyssey Neo G8,monitores,1,1499000,20,Tarjeta Debito,empresarial
+273,06/03/2024,Juan Pérez,santiago,Dell XPS 17,Computadores,1,2399000,10%,transferencia,empresarial
+274,14/03/2024,María González,Valparaiso,iPad Pro 11" M4,tablets,1,999000,5%,Efectivo,Particular
+275,2024-03-22,Pedro Rodríguez,Concepción,Razer Deathadder V3,accesorios,3,89000,0,Tarjeta Credito,particular
+276,30/03/2024,Carolina Silva,la serena,Asus Zenbook 14 OLED,computadores,1,1399000,15%,Tarjeta Debito,Empresarial
+277,07/04/2024,roberto soto,TEMUCO,Realme 12 Pro+,Smartphones,3,549000,20%,transferencia,Particular
+278,2024-04-15,Ana  Morales,Santiago,LG UltraFine 5K,Monitores,1,1299000,10,Efectivo,empresarial
+279,23/04/2024,JUAN PEREZ,santiago,HP Omen Transcend 14,computadores,1,1999000,15%,Tarjeta Credito,empresarial
+280,01/05/2024,María Gonzalez,Valparaíso,Lenovo Tab Extreme,Tablets,1,1099000,0%,Tarjeta Debito,empresarial
+281,2024-05-09,Pedro  Rodriguez,Concepcion,Corsair M65 RGB,accesorios,2,99000,5%,transferencia,Particular
+282,17/05/2024,Carolina Silva,LA SERENA,Lenovo Legion Pro 5,Computadores,1,1649000,20%,Efectivo,Empresarial
+283,25/05/2024,Roberto Soto,Temuco,Google Pixel 8a,smartphones,2,599000,10,Tarjeta Credito,Particular
+284,2024-06-02,ana morales,Santiago,ASUS ROG Strix XG27AQ,monitores,1,849000,0%,Tarjeta Debito,empresarial
+285,10/06/2024,Juan Perez,santiago,MSI Raider GE78,Computadores,1,2799000,15%,transferencia,empresarial
+286,18/06/2024,María González,Valparaiso,iPad Air M2,tablets,2,699000,5%,Efectivo,Particular
+287,2024-06-26,Pedro Rodríguez,Concepción,SteelSeries Aerox 5,accesorios,4,89000,10,Tarjeta Credito,particular
+288,04/07/2024,Carolina  Silva,la serena,Dell Precision 5690,computadores,1,2599000,20%,Tarjeta Debito,Empresarial
+289,12/07/2024,Roberto Soto,TEMUCO,Asus ROG Phone 8,Smartphones,1,1099000,15%,transferencia,empresarial
+290,2024-07-20,Ana Morales,Santiago,BenQ SW270C,Monitores,1,999000,0,Efectivo,Particular
+291,28/07/2024,JUAN PEREZ,santiago,Acer Aspire Vero,computadores,1,799000,10%,Tarjeta Credito,Empresarial
+292,05/08/2024,maria gonzalez,Valparaíso,Samsung Galaxy Tab S9 FE+,Tablets,1,599000,5%,Tarjeta Debito,Particular
+293,2024-08-13,Pedro Rodriguez,concepcion,Logitech G Pro Wireless,accesorios,1,139000,0,transferencia,empresarial
+294,21/08/2024,carolina silva,La Serena,HP ZBook Studio,Computadores,1,2299000,20%,Efectivo,empresarial
+295,29/08/2024,Roberto  Soto,Temuco,OnePlus 12R,smartphones,3,649000,10%,Tarjeta Credito,Particular
+296,2024-09-06,Ana Morales,SANTIAGO,Dell U3223QE,monitores,1,1199000,15,Tarjeta Debito,empresarial
+297,14/09/2024,Juan Pérez,santiago,Asus ProArt Studiobook,Computadores,1,2499000,20%,transferencia,empresarial
+298,22/09/2024,María González,Valparaiso,iPad Mini A17 Pro,tablets,1,649000,5%,Efectivo,Particular
+299,2024-09-30,Pedro Rodríguez,Concepción,Razer Cobra Pro,accesorios,2,119000,0,Tarjeta Credito,particular
+300,08/10/2024,Carolina Silva,la serena,Lenovo ThinkPad X1 Carbon,computadores,1,1999000,10%,Tarjeta Debito,Empresarial
